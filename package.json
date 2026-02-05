@@ -1,0 +1,38 @@
+{
+  "name": "cgl-editor",
+  "private": true,
+  "version": "0.1.0",
+  "description": "crisp-game-lib online editor",
+  "keywords": [
+    "geme-development",
+    "online-editor",
+    "crisp-game-lib"
+  ],
+  "homepage": "https://github.com/yoshoku/cgl-editor",
+  "bugs": {
+    "url": "https://github.com/yoshoku/cgl-editor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshoku/cgl-editor.git"
+  },
+  "license": "MIT",
+  "author": "Atsushi Tatsuma",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "@vitejs/plugin-vue": "^6.0.4",
+    "@vue/tsconfig": "^0.8.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vue-tsc": "^3.2.4"
+  },
+  "dependencies": {
+    "vue": "^3.5.27"
+  }
+}
