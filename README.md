@@ -3,6 +3,8 @@
 crisp-game-lib online editor is a simple online editor for
 programming education using [crisp-game-lib](https://github.com/abagames/crisp-game-lib)
 
+![crisp-game-lib online editor](https://github.com/user-attachments/assets/c290affa-258a-448f-b0ed-a981372dddcd)
+
 ## Development
 
 Install dependencies:
